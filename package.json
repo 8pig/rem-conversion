@@ -1,6 +1,6 @@
 {
-  "name": "rem-flexible",
-  "version": "1.0.0",
+  "name": "rem-conversion",
+  "version": "1.0.1",
   "description": "rem-conversion",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "rem-conversion"
+    "url": "https://github.com/8pig/rem-conversion.git"
   },
   "keywords": [
-    "rem"
+    "rem",
+	"rem-flexible"
   ],
   "author": "8pig",
   "license": "ISC"
